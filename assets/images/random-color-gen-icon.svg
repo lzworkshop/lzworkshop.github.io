@@ -1,0 +1,46 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+
+    viewBox="0 0 108 108"
+    id="vector">
+    <g
+        id="group"
+        transform="scale(0.3 0.3)">
+        <path
+            id="path"
+            d="M 0 0 L 120 0 L 120 120 L 0 120 Z"
+            fill="#e57373"/>
+        <path
+            id="path_1"
+            d="M 120 0 L 240 0 L 240 120 L 120 120 Z"
+            fill="#f44336"/>
+        <path
+            id="path_2"
+            d="M 240 0 L 360 0 L 360 120 L 240 120 Z"
+            fill="#d32f2f"/>
+        <path
+            id="path_3"
+            d="M 0 120 L 120 120 L 120 240 L 0 240 Z"
+            fill="#81c784"/>
+        <path
+            id="path_4"
+            d="M 120 120 L 240 120 L 240 240 L 120 240 Z"
+            fill="#4caf50"/>
+        <path
+            id="path_5"
+            d="M 240 120 L 360 120 L 360 240 L 240 240 Z"
+            fill="#388e3c"/>
+        <path
+            id="path_6"
+            d="M 0 240 L 120 240 L 120 360 L 0 360 Z"
+            fill="#64b5f6"/>
+        <path
+            id="path_7"
+            d="M 120 240 L 240 240 L 240 360 L 120 360 Z"
+            fill="#2196f3"/>
+        <path
+            id="path_8"
+            d="M 240 240 L 360 240 L 360 360 L 240 360 Z"
+            fill="#1976d2"/>
+    </g>
+</svg>
