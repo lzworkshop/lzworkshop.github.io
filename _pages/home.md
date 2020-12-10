@@ -13,7 +13,7 @@ feature_row:
     alt: "Random Color Generator Icon"
     title: "Random Color Generator"
     excerpt: "An android app that displays random colour and its metadata."
-    url: "/docs/configuration/"
+    url: "/app/random-color-generator/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
 #   - image_path: mm-responsive-feature.png
