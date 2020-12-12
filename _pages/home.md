@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.7"
   overlay_image: assets/images/misc/main-background.jpg
   caption:
-excerpt: 'A journey to unknown'
+excerpt: 'A journey to the unknown'
 feature_row:
   - image_path: /assets/images/post-app-rcg/random-color-gen-flash.svg
     alt: "Random Color Generator Icon"
