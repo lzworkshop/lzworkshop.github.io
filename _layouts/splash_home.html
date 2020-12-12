@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-<label class = "splash_home">
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
+  <div class = "splash_home">
   {% include page__hero.html %}
+  </div>
 {% elsif page.header.video.id and page.header.video.provider %}
   {% include page__hero_video.html %}
 {% endif %}
@@ -20,4 +21,3 @@ layout: default
     </section>
   </article>
 </div>
-</label>
