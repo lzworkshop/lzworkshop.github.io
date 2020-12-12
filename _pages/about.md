@@ -6,6 +6,10 @@ author_profile: true
 
 Hello. Thanks for stopping by!!
 
-LZ Workshop is a pen name for all my crazy works. The intention is mainly learning by doing multitude of things that I have never done before.
+I am a software developer form India contributing my small part to the world.
+<br>
+LZ Workshop is my pen online presence. The intention is mainly learning by doing multitude of things that I have not done before.
 
 Please do support me in my ventures.
+<br/><br/>
+[<i class="fab fa-paypal"></i> PayPal](https://www.paypal.com/paypalme/alant7){: .btn .btn--info}

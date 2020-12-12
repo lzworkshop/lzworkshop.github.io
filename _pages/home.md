@@ -30,7 +30,7 @@ feature_row:
 #     btn_label: "Learn More"
 
 intro:
-  - excerpt: 'Please support me at &nbsp; [<i class="fa fa-twitter"></i> @mmistakes](https://twitter.com/mmistakes){: .btn .btn--twitter}'
+  - excerpt: 'Support me at [<i class="fab fa-paypal"></i> PayPal ](https://twitter.com/mmistakes){: .btn .btn--info}'
 ---
 
 {% include feature_row id="intro" type="center" %}
