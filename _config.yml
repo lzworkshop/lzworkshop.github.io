@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Alan Thomas"
-  avatar : "/assets/images/alan-1.png"
+  avatar : "/assets/images/misc/alan-1.png"
   bio    : "Just a regular software engineer experimenting new things."
   links:
     # - label: "Website"
@@ -112,15 +112,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-
-    # _portfolio
-  - scope:
-      path: ""
-      type: archive-taxonomy
-    values:
-      layout: single
-      author_profile: false
-      share: true
 
 # category_archive:
 #   type: liquid

@@ -10,7 +10,7 @@ tags:
 excerpt: Random Colour Generator is an android app that displays random colour and its metadata values that can be copied to clipboard.
 ---
 
-![Logo](/assets/images/random-color-gen-icon.svg){:height="200px" width="200px"}
+![Logo](/assets/images/post-app-rcg/random-color-gen-icon.svg){:height="200px" width="200px"}
 
 [Install Now](https://play.google.com/store/apps/details?id=in.lzworkshop.randomcolourgenerator.free){: .btn .btn--success}
 
@@ -25,3 +25,10 @@ This app can inspire your artistic works by randomly selecting colours that you 
 * Displays hex, RGB and CMYK values. This is disabled by default. To enable, goto menu (3 dots) and check "Display Values"
 
 * Copy hex value to clipboard by long press anywhere on screen
+
+#### Screenshots
+<figure class="third">
+	<img src="/assets/images/post-app-rcg/ss-1.webp">
+	<img src="/assets/images/post-app-rcg/ss-2.webp">
+	<img src="/assets/images/post-app-rcg/ss-4.webp">
+</figure>

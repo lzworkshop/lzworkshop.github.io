@@ -3,13 +3,13 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: assets/images/main-background-mountain-2.jpg
+  overlay_image: assets/images/misc/main-background-mountain-2.jpg
 #   cta_label: "<i class='fa fa-download'></i> Install Now"
 #   cta_url: "/docs/quick-start-guide/"
   caption:
 excerpt: 'A journey to unknown'
 feature_row:
-  - image_path: /assets/images/random-color-gen-flash.svg
+  - image_path: /assets/images/post-app-rcg/random-color-gen-flash.svg
     alt: "Random Color Generator Icon"
     title: "Random Color Generator"
     excerpt: "An android app that displays random colour and its metadata."
@@ -30,7 +30,7 @@ feature_row:
 #     btn_label: "Learn More"
 
 intro:
-  - excerpt: 'Support me at [<i class="fab fa-paypal"></i> PayPal ](https://twitter.com/mmistakes){: .btn .btn--info}'
+  - excerpt: 'Support me at [<i class="fab fa-paypal"></i> PayPal ](https://www.paypal.com/paypalme/alant7){: .btn .btn--info}'
 ---
 
 {% include feature_row id="intro" type="center" %}
