@@ -4,7 +4,9 @@ title: "About"
 author_profile: true
 header:
   overlay_color: "#525574"
-  overlay_filter: "0.4"
+  overlay_filter: "0.7"
+  overlay_image: assets/images/misc/main-background.jpg
+
 ---
 
 Hello. Thanks for stopping by!!
