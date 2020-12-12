@@ -2,13 +2,17 @@
 permalink: /about/
 title: "About"
 author_profile: true
+# header:
+#   overlay_color: "#5e616c"
+#   overlay_filter: "0.7"
+#   overlay_image: assets/images/misc/main-background.jpg
 ---
 
 Hello. Thanks for stopping by!!
 
-I am a software developer form India contributing my small part to the world.
+I am a software developer form Kerala contributing my small part to the world.
 <br>
-LZ Workshop is my pen online presence. The intention is mainly learning by doing multitude of things that I have not done before.
+LZ Workshop is my pen name for my online presence. The intention is mainly learning by doing multitude of things that I have not done before.
 
 Please do support me in my ventures.
 <br/><br/>

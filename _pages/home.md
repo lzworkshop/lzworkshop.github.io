@@ -3,7 +3,8 @@ layout: splash
 permalink: /
 header:
   overlay_color: "#5e616c"
-  overlay_image: assets/images/misc/main-background-mountain-2.jpg
+  overlay_filter: "0.7"
+  overlay_image: assets/images/misc/main-background.jpg
 #   cta_label: "<i class='fa fa-download'></i> Install Now"
 #   cta_url: "/docs/quick-start-guide/"
   caption:
@@ -33,6 +34,8 @@ intro:
   - excerpt: 'Support me at [<i class="fab fa-paypal"></i> PayPal ](https://www.paypal.com/paypalme/alant7){: .btn .btn--info}'
 ---
 
+
+
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row %}
+{% include feature_row type="center"%}
