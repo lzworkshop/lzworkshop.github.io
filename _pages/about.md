@@ -2,10 +2,9 @@
 permalink: /about/
 title: "About"
 author_profile: true
-# header:
-#   overlay_color: "#5e616c"
-#   overlay_filter: "0.7"
-#   overlay_image: assets/images/misc/main-background.jpg
+header:
+  overlay_color: "#525574"
+  overlay_filter: "0.4"
 ---
 
 Hello. Thanks for stopping by!!

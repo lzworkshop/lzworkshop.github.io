@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: splash_home
 permalink: /
 header:
   overlay_color: "#5e616c"

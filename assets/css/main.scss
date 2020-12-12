@@ -45,6 +45,11 @@ See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-3268
 // }
 
 // Splash screen header
+.splash_home{
+  .wrapper {
+    padding: 10em;
+  }
+}
 
 .page__hero--overlay {
   .page__title{
@@ -66,7 +71,6 @@ See: https://github.com/mmistakes/minimal-mistakes/issues/1219#issuecomment-3268
 }
 
 .wrapper {
-  padding: 10em;
   vertical-align: middle;
   text-align: center;
 }
