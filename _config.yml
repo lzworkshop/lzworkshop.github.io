@@ -24,6 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 
 # If building for project site
 baseurl: '/lzworkshop-website'
+## Only when local testing
+destination: ../_site/lzworkshop-website/
 # If building for main site
 # baseurl: ''
 # twitter_username: username
