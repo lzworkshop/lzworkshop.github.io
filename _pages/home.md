@@ -8,6 +8,13 @@ header:
   caption:
 excerpt: 'A journey to unknown'
 feature_row:
+  - image_path: assets/images/apparel/ts-flash.jpg
+    alt: "Teespring logo"
+    title: "Visit our Storefront"
+    excerpt: "Buy high quality apparels, accessories and digital products."
+    url: "https://teespring.com/stores/lz-workshop"
+    btn_label: "Visit Store"
+    btn_class: "btn--primary"
   - image_path: /assets/images/post-app-rcg/random-color-gen-flash.svg
     alt: "Random Color Generator Icon"
     title: "Random Color Generator"
@@ -15,12 +22,6 @@ feature_row:
     url: "/app/random-color-generator/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-#   - image_path: mm-responsive-feature.png
-#     alt: "fully responsive"
-#     title: "Responsive Layouts"
-#     excerpt: "Built on HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-#     url: "/docs/layouts/"
-#     btn_label: "Learn More"
 #   - image_path: mm-free-feature.png
 #     alt: "100% free"
 #     title: "100% Free"
@@ -36,4 +37,4 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row type="center"%}
+{% include feature_row %}
